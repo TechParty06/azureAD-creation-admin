@@ -5,11 +5,11 @@
 # ================================
 
 $defaultUsername = 'agent365@mondomaine.fr' 											 # A PERSONNALISER (indiquer votre compte Agent365)
-$DisplayName = "Admin 365 FABRE - Monaco Digital"										 # A PERSONNALISER (indiquer le Nom d'affichage pour le nouveau compte admin)
-$adminClient = 'admin_fabre'  															 # A PERSONNALISER (indiquer le Login pour le nouveau compte admin)
+$DisplayName = "Admin 365 XXXXX - XXXXXXXXXXXX"										 # A PERSONNALISER (indiquer le Nom d'affichage pour le nouveau compte admin)
+$adminClient = 'admin_XXXXXX'  															 # A PERSONNALISER (indiquer le Login pour le nouveau compte admin)
 $securePassword = ConvertTo-SecureString "MotDePasseTemporaire123!" -AsPlainText -Force  # A PERSONNALISER (indiquer le MDP pour le nouveau compte admin)
-$GivenName = 'Fabien'																 	 # A PERSONNALISER (indiquer le Prenom pour le nouveau compte admin)
-$Surname = 'FABRE'																		 # A PERSONNALISER (indiquer le Nom pour le nouveau compte admin)
+$GivenName = 'Xxxxxx'																 	 # A PERSONNALISER (indiquer le Prenom pour le nouveau compte admin)
+$Surname = 'XXXXXX'																		 # A PERSONNALISER (indiquer le Nom pour le nouveau compte admin)
 
 #$PasswordTempAdmin = "MotDePasseAdminTemporaire123!" # A PERSONNALISER (mdp a associer au nouveau compte admin a creer)
 
