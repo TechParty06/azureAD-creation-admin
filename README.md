@@ -43,9 +43,9 @@ Ce script PowerShell permet de :
 
 ```
 ===== MENU ADMIN XXX (xxxxx.onmicrosoft.com) =====
-1. Tester la presence du compte admin (admin_fabre@tca06.onmicrosoft.com)
-2. Ajouter le compte admin (admin_fabre@tca06.onmicrosoft.com)
-3. Supprimer le compte admin (admin_fabre@tca06.onmicrosoft.com)
+1. Tester la presence du compte admin (admin_xxxxxx@xxxxxx.onmicrosoft.com)
+2. Ajouter le compte admin (admin_xxxxxx@xxxxxx.onmicrosoft.com)
+3. Supprimer le compte admin (admin_xxxxxx@xxxxxx.onmicrosoft.com)
 4. Quitter
 ===============================================
 ```
