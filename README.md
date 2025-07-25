@@ -3,7 +3,7 @@
 Ce script PowerShell permet de :
 - Lister les tenants d’un partenaire Microsoft 365 (via PartnerCenter)
 - Ouvrir un menu interactif pour chaque tenant
-- Tester, créer ou supprimer un compte admin (admin_fabre@domaine)
+- Tester, créer ou supprimer un compte admin (admin_xxxxx@domaine)
 - Assigner automatiquement le rôle « Global Administrator » au compte créé
 
 ## Fonctionnalités principales
